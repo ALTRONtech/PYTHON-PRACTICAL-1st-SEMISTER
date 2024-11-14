@@ -1,4 +1,0 @@
-In python,control statements help us manage the flow of a program's execution.
-They include decision-making statements (if,if-else,elif),loop statements (for,while),and 
-loop control statements (break,continue,pass).
-let's go over each with examples.
